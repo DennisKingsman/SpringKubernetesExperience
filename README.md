@@ -2,8 +2,8 @@
 ## DennisKingsman
 # Resources
 [youtube-guide](https://www.youtube.com/watch?v=aH1IwAPHe1w&ab_channel=TEKE)
-#Recomended to stuby
-[docker-hub-vvedenie](https://itgap.ru/post/docker-hub-vvedenie)  
+# Recomended to stuby
+[docker-hub-vvedenie](https://itgap.ru/post/docker-hub-vvedenie)   
 [spring-boot-minikube](https://www.baeldung.com/spring-boot-minikube)  
 # Process
 Step 1  
