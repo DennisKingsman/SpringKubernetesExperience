@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lucky-app-deployment
+  labels:
+    app: lucky-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lucky-app
+  template:
+    metadata:
+      labels:
+        app: lucky-app
+    spec:
+      containers:
+      - name: lucky-app
+        image: karimessouabni/lucky-app
+        ports:
+        - containerPort: 80
