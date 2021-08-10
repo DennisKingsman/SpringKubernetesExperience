@@ -3,6 +3,7 @@
 # Resources
 [youtube-guide](https://www.youtube.com/watch?v=aH1IwAPHe1w&ab_channel=TEKE)
 # Recomended to stuby
+[youtube-lecture](https://www.youtube.com/watch?v=1xo-0gCVhTU&ab_channel=JamesQuigley)
 [docker-hub-vvedenie](https://itgap.ru/post/docker-hub-vvedenie)   
 [spring-boot-minikube](https://www.baeldung.com/spring-boot-minikube)  
 # Process
